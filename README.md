@@ -9,5 +9,5 @@ There are several benefits in using this method, for example, you can easily:
  - change classes while working with DevTools for UI testing;
  - write only once all the properties, values and respective prefixes;
 
-Feel free to use the style sheet and adapt it in your own accord.
+Feel free to use the style sheet (it's in the CSS folder) and adapt it in your own accord.
 I'll be adding more classes and some samples in future updates.
